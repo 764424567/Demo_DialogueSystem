@@ -1,0 +1,4 @@
+/*
+The Wheel dialogue UI is designed to hold up to six choices. Keep Show Unused Buttons ticked to 
+ensure that all wedges of the wheel are drawn.
+*/
